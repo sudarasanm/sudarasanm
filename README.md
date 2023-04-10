@@ -6,6 +6,8 @@ I am a FINAL year student at the Sri Shakthi institute of engineering  Technolog
 
 Ask me about Node-js, React-js, MongoDB
 
+Currently working on the DevOps
+
 🙋‍ I am a self-motivated and helpful soul.
 
 How to reach me:LinkedIn,Gmail,Twitter
