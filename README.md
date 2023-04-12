@@ -6,7 +6,7 @@ I am a FINAL year student at the Sri Shakthi institute of engineering  Technolog
 
 Ask me about Node-js, React-js, MongoDB
 
-Currently working on the DevOps
+Currently working on the DevOps CICD pipeline Jenkins
 
 🙋‍ I am a self-motivated and helpful soul.
 
