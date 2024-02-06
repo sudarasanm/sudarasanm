@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I am a FINAL year student at the Sri Shakthi institute of engineering  Technology Coimbatore.
+I have completed my Higher Studies at Sri Shakthi Institute of Engineering  Technology Coimbatore.
 
- I’m currently learning Front-end development, Back-end development, Devops, Node-js, React-js, Data-Base(MongoDB, Sql) Currently looking for Working in a Reputed company
+ i have Well Knowledge in Back-end development, DevOps, Node-js, and Data-Base(MongoDB) Currently looking to work in a Reputed company
 
-Ask me about Node-js, React-js, MongoDB
+Ask me about Node-js, MongoDB, DevOps
 
 Currently working on the DevOps CICD pipeline Jenkins
 
 🙋‍ I am a self-motivated and helpful soul.
 
-How to reach me:LinkedIn,Gmail,Twitter
+How to reach me: LinkedIn, Gmail, Twitter
 
-Fun fact I do lot of funny things.
+Fun fact I do a lot of funny things.
